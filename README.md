@@ -4,7 +4,7 @@ This is the official PyTorch implementation of **TSTM** from
 
 **TSTM: Temporal Segmentation for Task-relevant Mask in Visual Reinforcement Learning Generalization** by
 
-Weicheng Du, Wenjia Meng, Zhengzhe Zhang, Yilong Yin, Xiankai Lu.
+Weicheng Du, [Wenjia Meng](https://faculty.sdu.edu.cn/mengwenjia1/zh_CN/index.htm), Zhengzhe Zhang, [Yilong Yin](https://faculty.sdu.edu.cn/ylyin/), [Xiankai Lu](https://faculty.sdu.edu.cn/luxiankai/zh_CN/index.htm).
 
 **CVPR 2026**
 
